@@ -56,10 +56,24 @@ A estratégia adotada seguiu uma abordagem estruturada de análise de dados:
 ## 5. Insights da Análise
 A análise dos dados permitiu identificar padrões relevantes, como:
 - O tempo médio de entrega é de 125 min (2h) com desvio-padrão de 52 min (2h). A entrega mais rápida aconteceu em 10 min e a mais lenta em 270 min (4,5h).
-- A área “Semi-Urban” é a única área que apresenta mais atrasos do que entregas sem atraso. 
+- A área “Semi-Urban” é a única área que apresenta mais atrasos do que entregas sem atraso.
 - Os atrasos aumentam em dias nublados e com neblina, e diminuem em dias de sol.
+
+ <p align="center">
+  <img src="img/g02.png" width="45%" />
+  <img src="img/g03.png" width="45%" />
+</p>
+
+
 - Veículos como motocicletas apresentam maior taxa de entrega atrasada em relação aos outros meios de transporte.
 - O nível de tráfego forte ( Jam ), apresenta mais atrasos.
+
+ <p align="center">
+  <img src="img/g04.png" width="45%" />
+  <img src="img/g05.png" width="45%" />
+</p>
+
+
 - Os maiores atrasos aconteceram com entregas para a área “Semi-Urban” realizadas por motocicletas como veículo.
 - Entregadores com idade acima dos 30 anos tendem a atrasar mais as entregas do que entregadores abaixo dos 30.
 - As entregas estão distribuídas uniformemente entre as categorias, exceto a categoria outros que representa 43% das entregas.
